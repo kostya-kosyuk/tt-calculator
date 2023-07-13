@@ -20,7 +20,6 @@ const clientTransaction = async  (a: number, b: number, transactionMethod: strin
         const method = contract.methods[transactionMethod](a, b);
         const result = await method.call({ from: account });
         const response = await method.send({ from: account });
-        console.log(result);
 
         return Number(result);
     } catch (error) {
