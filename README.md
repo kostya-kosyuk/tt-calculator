@@ -5,6 +5,8 @@
 
 Calculate your numbers with MetaMask.
 
+DemoLink: https://kostya-kosyuk.github.io/tt-calculator/
+
 ## Screenshots
 ![image](https://github.com/kostya-kosyuk/tt-calculator/assets/80011474/f1108414-856d-4549-b677-d796cf1aa639)
 
